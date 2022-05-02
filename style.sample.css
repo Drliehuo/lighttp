@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{margin:0; font-size:16px;}
+img{max-width:100%; height:auto; border:0;}
+pre{margin:0 0 10px; padding:9.5px; font-family:Monaco, Consolas; line-height:18.5667px; overflow-wrap:break-word; background-color:#F5F5F5; border-color:#CCCCCC; border-radius:4px; border-style:solid; border-width:1px; color:#333333; display:block; overflow:auto; overflow-y:scroll;}
+a:hover{color:#365d95; text-decoration:none}
+a:link{color:#365d95}
+a:visited{color:#365d95}
+a:active{color:#365d95}
+.txt{text-indent:2em; line-height:32px; font-size:16px;}
+.hide{display:none;}
+.tct{text-align:center;}
+.tlt{text-align:left;}
+.trt{text-align:right;}
+/* 内边距上右下左 */
+.dpd64{padding:0px 0px 64px 0px}
+.dpd320{padding:0px 0px 320px 0px}
+.dpd640{padding:0px 0px 640px 0px}
