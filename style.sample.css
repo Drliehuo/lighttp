@@ -10,10 +10,11 @@ a:visited{color:#365d95}
 a:active{color:#365d95}
 .txt{text-indent:2em; line-height:32px; font-size:16px;}
 .hide{display:none;}
-.tct{text-align:center;}
-.tlt{text-align:left;}
-.trt{text-align:right;}
+.dtc{text-align:center;}
+.dtl{text-align:left;}
+.dtr{text-align:right;}
 /* 内边距上右下左 */
+.dpd32{padding:0px 0px 32px 0px}
 .dpd64{padding:0px 0px 64px 0px}
 .dpd320{padding:0px 0px 320px 0px}
 .dpd640{padding:0px 0px 640px 0px}
