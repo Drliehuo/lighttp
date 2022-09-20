@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" >
+  <channel>
+    <title>正太网</title>
+    <atom:link href="https://www.shota.vip/feed.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.shota.vip/</link>
+    <description>善良的小孩应该去追，幽默的短消息发给小乌龟。(正太网，记录美好生活)</description>
+    <lastBuildDate>Mon, 11 Nov 2019 10:08:21 +0000</lastBuildDate>
+    <language>zh-CN</language>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <generator>webmaster@shota.vip (王子)</generator>
+    <item>
+      <title>于泽宇苟明睿像极了</title>
+      <link>https://www.shota.vip/%E8%A7%86%E9%A2%91/%E9%9F%B3%E4%B9%90/%E5%83%8F%E6%9E%81%E4%BA%86.html</link>
+      <comments>https://www.shota.vip/%E8%A7%86%E9%A2%91/%E9%9F%B3%E4%B9%90/%E5%83%8F%E6%9E%81%E4%BA%86.html#respond</comments>
+      <dc:creator><![CDATA[王子]]></dc:creator>
+      <pubDate>Mon, 11 Nov 2019 10:08:21 +0000</pubDate>
+      <category><![CDATA[音乐视频]]></category>
+      <guid isPermaLink="false">https://www.shota.vip/%E8%A7%86%E9%A2%91/%E9%9F%B3%E4%B9%90/%E5%83%8F%E6%9E%81%E4%BA%86.html</guid>
+      <description><![CDATA[男孩故事舞台正在播出，属于小三只的五月花季告白，音乐作品像极了送给给位哥哥姐姐们。]]></description>
+      <content:encoded><![CDATA[<p><img src="https://www.liehuojun.com/upload/202005/4PiRCXLZvqvp3N7voTi5EmATvAzK6Piv.jpg" class="thumbnail" alt="于泽宇像极了" width="240"></p><p>男孩故事舞台正在播出，属于小三只的五月花季告白，音乐作品像极了送给给位哥哥姐姐们。</p>]]></content:encoded>
+      <wfw:commentRss>https://www.shota.vip/%E8%A7%86%E9%A2%91/%E9%9F%B3%E4%B9%90/%E5%83%8F%E6%9E%81%E4%BA%86.html#cr</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+    </item>
+  </channel>
+</rss>
